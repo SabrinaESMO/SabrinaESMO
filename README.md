@@ -1,11 +1,16 @@
 ### Hola :relaxed: ¡Encantada de conocerte!  
 ---
 #### :blue_heart: ¿Quién soy? :blue_heart: ####  
-Mi nombre es **Sabrina Estévez**, aunque me gusta más que me llamen **Sabri**, y mi presencia en redes suele ser ***@LeyendoAzul***.
 
-Nací en Uruguay en 1996, pero emigré a España con mis padres cuando tenía 6 años.  
-Vivo en una ciudad pequeña 45 minutos al sur de Barcelona (Vilanova i la Geltrú) con mi pareja, 2 gatos y un perro. ¡Somos una familia numerosa!  
-
+```js
+const sabrinaESMO = {
+  pronouns: "she"|"her",
+  name: "Sabrina Estévez"
+  decade: " 90' "
+  code: [Javascript, HTML, CSS],
+  tools: [React, bootstrap],
+}
+```
 ---
 #### :computer: ¿A qué me dedico? :computer: ####  
 Actualmente soy estudiante de 4GeeksAcademy, donde estoy convirtiéndome en Full Stack Developer. ¡Cada día me gusta más!  
