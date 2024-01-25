@@ -1,16 +1,22 @@
-### Hola :relaxed: ¡Encantada de conocerte!  
----
-#### :blue_heart: ¿Quién soy? :blue_heart: ####  
+### Hi, I'm Sabri 👋💙
 
 ```js
-const sabrinaESMO = {
+const sesmoDev = {
   pronouns: "she"|"her",
-  name: "Sabrina Estévez"
-  decade: " 90' "
+  name: "Sabrina Estévez",
+  user: SabrinaESMO,
   code: [Javascript, HTML, CSS],
   tools: [React, bootstrap],
 }
 ```
+
+You can find me here:
+- [Instagram](https://www.instagram.com/leyendoazul/)  
+- [Twitter o X](https://twitter.com/LeyendoAzul)  
+
+---
+[![SesmoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinaESMO)](https://github.com/SabrinaESMO/github-readme-stats)
+
 ---
 #### :computer: ¿A qué me dedico? :computer: ####  
 Actualmente soy estudiante de 4GeeksAcademy, donde estoy convirtiéndome en Full Stack Developer. ¡Cada día me gusta más!  
@@ -32,12 +38,8 @@ Lo que sí he hecho muchos años ha sido cantar. He estado en un par de bandas d
 ---
 
 #### :hibiscus: ¿Dónde podemos encontrarnos? :hibiscus: ####  
-Disfruto mucho conociendo gente nueva, descubriendo sus talentos y hobbies, y compartiendo conocimiento.  
-Las redes sociales no son mi fuerte porque las uso más para mirar que para compartir, pero pretendo cambiar eso poco a poco.  
-Siéntete libre de contactarme por cualquier medio, y por supuesto acepto sugerencias en cuanto al contenido de todas las plataformas :)  
-[Instagram](https://www.instagram.com/leyendoazul/)  
-[Twitter o X](https://twitter.com/LeyendoAzul)  
-[Youtube (en construcción)](https://www.youtube.com/channel/UCeHqKRNx-2XuKnNwOANvYLw)  
+
+
 
 ---
 :sparkles: Si has llegado hasta aquí, te debo un abrazo y una reverencia.:sparkles:  
