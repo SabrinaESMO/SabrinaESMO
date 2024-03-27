@@ -5,8 +5,7 @@ const sesmo.dev = {
   name: "Sabrina Estévez",
   user: SabrinaESMO,
   pronouns: "she"|"her",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Bootstrap],
+  code: [React, Javascript, HTML, CSS],
 };
 ```
 
@@ -31,11 +30,10 @@ I've been a helpdesk technician for over 5 years, starting as a support advisor 
 
 ### 📚🎮 ABOUT ME 🎮📚 ###
 
-I love reading, especially "romantasy" books like ACOTAR or Caraval. I cannot live without a world where to dive in every now and then to live some adventures.
+I love reading, especially "romantasy" books like ACOTAR or Caraval. I cannot live without a world where I can dive in every now and then to live some adventures.
 
-I also love writting, painting, singing, and trying new activities. Rigth now I'm about to start diving in D&D's world. 
+I also love freestyle slalom, true crime, writing, painting, and trying new activities in general. 
 
 
 >[!NOTE]
->I'm not really active on social media, but you can find me in [Instagram](https://www.instagram.com/leyendoazul/) talking about books from time to time,
->or in [X](https://twitter.com/LeyendoAzul) very less often. 
+>I'm not really active on social media, but you can find me in [Instagram](https://www.instagram.com/leyendoazul/) talking about books from time to time.
