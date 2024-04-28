@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="100%" src="https://github.com/SabrinaESMO/SabrinaESMO/blob/main/Banner%20LinkedIn%203.png" alt="cover" />
+  <img width="100%" src="https://github.com/SabrinaESMO/SabrinaESMO/blob/main/GH%20Cover.png" alt="cover" />
 </div>
 
 ### Hi, I'm Sabri! 👋💙
