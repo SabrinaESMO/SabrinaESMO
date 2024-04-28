@@ -21,11 +21,6 @@ I've been a helpdesk technician for over 5 years, starting as a support advisor 
 [![sesmo.dev GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinaESMO)](https://github.com/SabrinaESMO/github-readme-stats)
 
 
->[!TIP]
->Did you know that hiring junior developers with no experience can lengthen your life expectancy?
->
->[My LinkedIn](https://www.linkedin.com/in/sesmo-dev/)
-
 ---
 
 ### 📚🎮 ABOUT ME 🎮📚 ###
@@ -33,3 +28,9 @@ I've been a helpdesk technician for over 5 years, starting as a support advisor 
 I love reading, especially "romantasy" books like ACOTAR. I cannot live without a world where I can dive in every now and then to live some adventures.
 
 I also love freestyle slalom, true crime, writing, painting, and trying new activities in general. 
+
+
+>[!TIP]
+>Did you know that hiring junior developers with no experience can lengthen your life expectancy?
+>
+>[My LinkedIn](https://www.linkedin.com/in/sesmo-dev/)
